@@ -8,5 +8,5 @@ Aplikasi Persewaan Mobil ini dikembangkan menggunakan Laravel, Blade, dan Bootst
 * Integration Layer:Laravel Blade Engine (Server-Side Rendering)
 * Frontend Library:Vanilla JavaScript & Bootstrap JS
 * Styling Framework:Bootstrap 5 (v5.3.3)
-* Database Management:MySQL
+* Database Management:MySQL (file dump: database/persewaan_mobil.sql)
 * UI Components & Icons:Bootstrap 5 Components, Bootstrap Icons (`bootstrap-icons`)
